@@ -15,7 +15,7 @@ A Python based Wikipedia crawler that collects article titles, URLs, and H2 head
 
 Clone the repository and install the required dependencies:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Rag-isnt-fluffy/Rags-Webscraper.git
 cd Rags-Webscraper
 pip install -r requirements.txt
 ```
