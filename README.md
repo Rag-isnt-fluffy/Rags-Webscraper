@@ -1,6 +1,7 @@
 # Rags-Webscraper
 
 A Wikipedia crawler. Records each page's title, URL and H2 headings.
+I have future plans for this to maybe be a test site for future web projects
 
 ## Setup
 ```
@@ -10,8 +11,8 @@ Edit `USER_AGENT` in `config.py` with your contact details with credit given ple
 
 ## Run
 ```
-python Webcrawler.py                                   #saves to results.jsonl
-python Webcrawler.py --firebase-key serviceAccount.json  #saves to Firestore
+python Webcrawler.py
+python Webcrawler.py --firebase-key serviceAccount.json
 python Webcrawler.py --max-pages 50 --delay 2
 (python3 if you're on mac)
 ```
