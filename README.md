@@ -1,4 +1,5 @@
-**[Download the Latest Release Here](https://github.com/Rag-isnt-fluffy/Rags-Webscraper/releases/tag/V2.5)**
+***[Download the Latest Release Here](https://github.com/Rag-isnt-fluffy/Rags-Webscraper/releases/tag/V2.5)***
+
 The following is a copy of the latest release's README.md found above ^.
 
 # Rags-Webscraper
